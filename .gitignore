@@ -25,3 +25,5 @@ hs_err_pid*
 # my files
 notes.md
 **/target/
+*.code-workspace
+node_modules
